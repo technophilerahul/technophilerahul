@@ -8,7 +8,8 @@
 - Excel  
 - Python (Pandas, NumPy)  
 - SQL  
-- Power BI  
+- Power BI
+- Generative AI 
 
 ---
 
