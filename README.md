@@ -14,7 +14,7 @@
 ---
 
 ## 📂 Projects
-- 
+- Sales data analysis using Excel
 
 ---
 
