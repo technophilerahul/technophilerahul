@@ -5,8 +5,8 @@
 ---
 
 ## 🧠 Skills
-- Excel  
-- Python (Pandas, NumPy)  
+- Advance Excel  
+- Programming Python (Pandas, NumPy)  
 - SQL  
 - Power BI
 - Generative AI 
