@@ -13,14 +13,8 @@
 
 ---
 
-## 📚 Currently Learning
-- Data Visualization  
-- Advanced SQL  
-
----
-
 ## 📂 Projects
-- Coming Soon...
+- 
 
 ---
 
