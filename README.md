@@ -15,6 +15,8 @@
 
 ## 📂 Projects
 - Sales data analysis using Excel
+- Amazon sales data analysis using Python (Pandas, Numpy, Matplotlib, Seaborn)
+- Financial performance analysis using Power BI
 
 ---
 
